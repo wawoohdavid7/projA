@@ -1,0 +1,4 @@
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/wawoohdavid7/baseProj.git
+	branch = master
